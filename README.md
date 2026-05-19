@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou Álvaro 👋
 
-<!--
-**AlvaroMarques02/AlvaroMarques02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas
 
-Here are some ideas to get you started:
+💻 Desenvolvedor Full Stack em formação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Atualmente aprendendo:
+- Lógica de Programação
+- HTML & CSS
+- JavaScript
+- Git e GitHub
+
+📚 Tecnologias e áreas que irei estudar:
+- Front-End Frameworks
+- Back-End Frameworks
+- Banco de Dados
+- APIs
+- DevOps
+- Cloud Computing
+- Inteligência Artificial
+
+🎯 Objetivo:
+Construir aplicações completas, evoluir constantemente e me tornar um Desenvolvedor Full Stack.
+
+📍 Itapissuma - PE
